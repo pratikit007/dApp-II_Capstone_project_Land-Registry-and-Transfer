@@ -3,7 +3,7 @@
 This project is submission of  BCDV1014 - dApp II individual assignment developed by  [Pratik Patel](https://github.com/pratikit007) under the guidance of professors **_Dave Mckay_** & **_Dhruvin Parikh_** as a part of [Blockchain Development - Fintech](https://www.georgebrown.ca/programs/blockchain-development-program-t175) course at [George Brown College.  
 ](https://www.georgebrown.ca/)
 
-In brief, it is a Blockchain solution for Land registry and transfer, using Ethereum, Node.js and ReactJS. For more details about project, please refer to [main](https://github.com/pratikit007/dApp-II_Capstone_project_Land-Registry-and-Transfer/blob/main/Land_On_Block_Project%20Document.pdf) document.
+In brief, it is a Blockchain solution for Land registry and transfer, using Ethereum, Node.js and ReactJS, Android SDK & iOS SDK, Android Studio & Android Developer Tools. For more details about project, please refer to [main](https://github.com/pratikit007/dApp-II_Capstone_project_Land-Registry-and-Transfer/blob/main/Land_On_Block_Project%20Document.pdf) document.
 
 
 ## Business use case
