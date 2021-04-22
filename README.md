@@ -22,7 +22,7 @@ In this use case I have decided to use Ethereum blockchain. Considering the choi
 
 ## Scope of project
 
-This capstone project has limited scope limited to the overall design of the application and fundamental architecture of the same. It covers the bottlenecks, benefits as well. It is in early developments phase where idea has been coined create this solution based on foundation knowledge of Blockchain. However, in order to make it more scalable and flexible where various scenarios and complexity can be accommodated with the contribution from blockchain expert community.  
+This capstone project has a scope limited to the overall design of the application and fundamental architecture of the same. It covers the bottlenecks, benefits as well. It is in early developments phase where idea has been coined create this solution based on foundation knowledge of Blockchain. However, in order to make it more scalable and flexible where various scenarios and complexity can be accommodated with the contribution from blockchain expert community.  
 
 For more details about Benefit please refer to  [Benefits](https://github.com/pratikit007/dApp-II_Capstone_project_Land-Registry-and-Transfer/blob/main/Land_On_Block_Benefits.pdf) document.
 
